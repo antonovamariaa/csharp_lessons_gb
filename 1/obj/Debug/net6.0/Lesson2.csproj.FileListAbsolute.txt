@@ -1,0 +1,15 @@
+/home/maria/geekbrains/programming/Lesson2/bin/Debug/net6.0/Lesson2
+/home/maria/geekbrains/programming/Lesson2/bin/Debug/net6.0/Lesson2.deps.json
+/home/maria/geekbrains/programming/Lesson2/bin/Debug/net6.0/Lesson2.runtimeconfig.json
+/home/maria/geekbrains/programming/Lesson2/bin/Debug/net6.0/Lesson2.dll
+/home/maria/geekbrains/programming/Lesson2/bin/Debug/net6.0/Lesson2.pdb
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.csproj.AssemblyReference.cache
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.AssemblyInfoInputs.cache
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.AssemblyInfo.cs
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.csproj.CoreCompileInputs.cache
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.dll
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/refint/Lesson2.dll
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.pdb
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/Lesson2.genruntimeconfig.cache
+/home/maria/geekbrains/programming/Lesson2/obj/Debug/net6.0/ref/Lesson2.dll

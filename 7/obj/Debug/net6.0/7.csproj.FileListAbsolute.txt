@@ -1,0 +1,15 @@
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.csproj.AssemblyReference.cache
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.AssemblyInfoInputs.cache
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.AssemblyInfo.cs
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.csproj.CoreCompileInputs.cache
+/home/maria/geekbrains/programming/Lessons/7/bin/Debug/net6.0/7
+/home/maria/geekbrains/programming/Lessons/7/bin/Debug/net6.0/7.deps.json
+/home/maria/geekbrains/programming/Lessons/7/bin/Debug/net6.0/7.runtimeconfig.json
+/home/maria/geekbrains/programming/Lessons/7/bin/Debug/net6.0/7.dll
+/home/maria/geekbrains/programming/Lessons/7/bin/Debug/net6.0/7.pdb
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.dll
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/refint/7.dll
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.pdb
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/7.genruntimeconfig.cache
+/home/maria/geekbrains/programming/Lessons/7/obj/Debug/net6.0/ref/7.dll
